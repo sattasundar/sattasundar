@@ -11,10 +11,10 @@
   <img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" alt="maui" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/xamarin-logo-png-transparent.png" alt="xamarin" width="45" height="40"/>
   <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" alt="dotnetcore" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
   <img src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png" alt="capacitorjs" width="40" height="40"/>
   <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
  </p>
