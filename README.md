@@ -20,13 +20,14 @@
  </p>
 <p align="center">
   <a href="https://github.com/sattasundar">
-    <img src="https://github-readme-stats.vercel.app/api?username=sattasundar&count_private=true&hide_border=true&show_icons=true" alt="github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sattasundar&show_icons=true&theme=tokyonight&count_private=true" alt="github stats">
   </a>
 </p>
 <!--<p align="center">
   <a href="https://github.com/sattasundar">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&layout=compact&hide_border=true&show_icons=true&count_private=true"                  alt="github stats">
   </a>
+  https://github-readme-stats.vercel.app/api/top-langs/?username=enisn&layout=compact&theme=tokyonight&count_private=true
 </p>-->
 
 <!--
