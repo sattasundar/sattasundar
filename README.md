@@ -1,24 +1,51 @@
-### <h1 align="center"> Hi there 👋 I'm Sattasundar </h1>
+### Hi there 👋 <p align="right">[![Profile Views](https://komarev.com/ghpvc/?username=sattasundar&color=blueviolet)](https://github.com/sattasundar)</p>
 
-<h3 align="center">A learner & software developer</h3>
+I'm Satta Sundar Parida.
+
+Currently working as a cross-platform app developer at Wipro.
+
+Eager to learning new things, sharing knowledge and interacting with communities.
+
+#### Working Skills: 
+
+![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-blueviolet?style=flat-square&logo=csharp) 
+![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-green?style=flat-square&logo=xamarin) 
+![.NET Core](https://img.shields.io/badge/.NET-Core-blueviolet?style=flat-square)
+![Ionic](https://img.shields.io/badge/Ionic-9cf?style=flat-square&logo=ionic)
+![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
+![Capacitor](https://img.shields.io/badge/Capacitorjs-9cf?style=flat-square&logo=capacitor)
+![Firebase](https://img.shields.io/badge/Firebase-brightgreen?style=flat-square&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite)
+![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-green?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-brightgreen?style=flat-square&logo=csswizardry)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-9af?style=flat-square&logo=bootstrap)
+
+#### Tools:
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudio)
+![MSSql](https://img.shields.io/badge/MS%20SQL-blueviolet?style=flat-square&logo=microsoftsqlserver)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-yellowgreen?style=flat-square&logo=androidstudio)
+![XCode](https://img.shields.io/badge/Xcode-9af?style=flat-square&logo=xcode)
 
  <!-- <p align="center">
   <img src="https://habib.al-mawali.com/wp-content/uploads/ibm-cloud.png" alt="ibm certified" width="126" height="80"/>
   <img src="https://habib.al-mawali.com/wp-content/uploads/KTBase-Technologies.png" alt="ktbase" width="133" height="80"/>
  </p> -->
 
-<p align="center">
-  <img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" alt="maui" width="40" height="40"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/xamarin-logo-png-transparent.png" alt="xamarin" width="45" height="40"/>
-  <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" alt="dotnetcore" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png" alt="capacitorjs" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
-  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
- </p>
-<p align="center">
+#### Social Handles:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sattasundar-parida)
+[![Twitter](https://img.shields.io/badge/Twitter-blueviolet?style=flat-square&logo=twitter)](https://twitter.com/sundarsatta)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UClc0YOyWMgzQWZ-pcbCflCA)
+
+- 📫 Mail at: sundarsatta@outlook.com
+
+#### GitHub Stats:
+
+<p align="left">
   <a href="https://github.com/sattasundar">
     <img src="https://github-readme-stats.vercel.app/api?username=sattasundar&show_icons=true&theme=tokyonight&count_private=true" alt="github stats">
   </a>
