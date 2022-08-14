@@ -45,17 +45,23 @@ Eager to learning new things, sharing knowledge and interacting with communities
 
 #### GitHub Stats:
 
-<p align="left">
+<p>
   <a href="https://github.com/sattasundar">
     <img src="https://github-readme-stats.vercel.app/api?username=sattasundar&show_icons=true&theme=tokyonight&count_private=true" alt="github stats">
   </a>
+  <!--<a href="https://github.com/sattasundar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&layout=compact&show_icons=true&theme=tokyonight&langs_count=8"                  alt="github stats">
+  </a>-->
 </p>
-<!--<p align="center">
-  <a href="https://github.com/sattasundar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&layout=compact&hide_border=true&show_icons=true&count_private=true"                  alt="github stats">
-  </a>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=enisn&layout=compact&theme=tokyonight&count_private=true
-</p>-->
+
+#### Glad to be:
+
+<p>
+   <a href="https://snppts.dev/snippet/maui-starbucks-redesign" target="_blank">
+   <img src="https://camo.githubusercontent.com/cd35f0ca9d14d9c9a7c4f35e9321fc32fa6369570292080e6c44fe8522768139/68747470733a2f2f7777772e736e707074732e6465762f696d672f736e707074732d62616467652e6a7067" width="150" height="50" alt="Snppts Badge"/>
+</a>
+</p>
+
 
 <!--
 **sattasundar/sattasundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
