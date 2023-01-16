@@ -45,14 +45,11 @@ Eager to learning new things, sharing knowledge and interacting with communities
 
 #### GitHub Stats:
 
-<p>
-  <a href="https://github.com/sattasundar">
-    <img src="https://github-readme-stats.vercel.app/api?username=sattasundar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="github stats">
-  </a>
-  <!--<a href="https://github.com/sattasundar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&layout=compact&show_icons=true&theme=tokyonight&langs_count=8"                  alt="github stats">
-  </a>-->
-</p>
+<div align="start">
+  <a href="https://github.com/danimonettelli">
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=sattasundar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&layout=compact&langs_count=7&theme=react"/> -->
+</div>
 
 #### Glad to be:
 
