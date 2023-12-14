@@ -11,9 +11,14 @@ Eager to learning new things, sharing knowledge and interacting with communities
 ![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-blueviolet?style=flat-square&logo=csharp) 
 ![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-green?style=flat-square&logo=xamarin) 
 ![.NET Core](https://img.shields.io/badge/.NET-Core-blueviolet?style=flat-square)
+![React](https://img.shields.io/badge/React-gray?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9cf?style=flat-square&logo=postgresql)
+![NodeJs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![React Native](https://img.shields.io/badge/React_Native-gray?style=flat-square&logo=react)
 ![Ionic](https://img.shields.io/badge/Ionic-9cf?style=flat-square&logo=ionic)
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
-![Capacitor](https://img.shields.io/badge/Capacitorjs-9cf?style=flat-square&logo=capacitor)
+![Capacitor](https://img.shields.io/badge/Capacitor-9cf?style=flat-square&logo=capacitor)
 ![Firebase](https://img.shields.io/badge/Firebase-brightgreen?style=flat-square&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=flat-square&logo=javascript)
@@ -21,7 +26,6 @@ Eager to learning new things, sharing knowledge and interacting with communities
 ![HTML5](https://img.shields.io/badge/HTML5-green?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-brightgreen?style=flat-square&logo=csswizardry)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-9af?style=flat-square&logo=bootstrap)
-
 #### Tools:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
