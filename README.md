@@ -46,8 +46,8 @@ Eager to learning new things, sharing knowledge and interacting with communities
 #### GitHub Stats:
 
 <div align="start">
-  <a href="https://github.com/danimonettelli">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=sattasundar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sattasundar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattasundar&layout=compact&langs_count=7&theme=react"/> -->
 </div>
 
