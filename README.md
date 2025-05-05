@@ -2,7 +2,7 @@
 
 I'm Satta Sundar Parida.
 
-Currently working as a cross-platform app developer at Wipro.
+Currently working as a Senior Lead Engineer @Nitor Infotech, an Ascendion company.
 
 Eager to learning new things, sharing knowledge and interacting with communities.
 
